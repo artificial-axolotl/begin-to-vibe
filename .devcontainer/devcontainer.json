@@ -1,0 +1,14 @@
+{
+  "name": "Begin To Vibe",
+
+  // Install Claude Code and set up copy-paste login (see setup.sh)
+  "onCreateCommand": "bash .devcontainer/setup.sh",
+
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "connorontheweb.alpinejs-tools"  // Alpine.js IntelliSense (HTML support is built in)
+      ]
+    }
+  }
+}
