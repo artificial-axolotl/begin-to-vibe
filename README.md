@@ -11,7 +11,7 @@ A beginner's tutorial for vibe coding with Claude Code.
 
 Click the button to open a ready-to-go coding environment in your browser:
 
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/artificial-axolotl/begin-to-vibe?quickstart=1)
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/artificial-axolotl/begin-to-vibe)
 
 When it finishes loading, open the terminal and type:
 
